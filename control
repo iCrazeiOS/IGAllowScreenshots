@@ -1,0 +1,9 @@
+Package: com.thedemonicapple.igallowscreenshots
+Name: IGAllowScreenshots
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Stop people from seeing that you screenshotted the conversation!
+Maintainer: TheDemonicApple
+Author: TheDemonicApple
+Section: Tweaks
